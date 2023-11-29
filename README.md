@@ -5,3 +5,6 @@ Fraud detection is critical for audit companies and financial institutions to en
 
 ## Dataset
 “Audit Data.” UCI Machine Learning Repository, archive.ics.uci.edu/dataset/475/audit+data
+
+## Team members
+Charlotte Ren, Aurora, Yiran Xiong, Ming Chun (Jim) Wei
